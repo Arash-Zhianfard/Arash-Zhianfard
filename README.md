@@ -1,7 +1,10 @@
 ### Hi there, I'm Arash 
 
 
-## I'm a senior full-stack web developer
+## I'm a Senior Full Stack Developer with +6 experience in all stages
+of advanced web development across diverse industries.I have experience in wide range of technologies across
+multiple frameworks, software and programming languages including ASP Core, C#, IIS,
+EF Core, Reactjs, AngularJs and Microsoft SQL Server
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Arash-Zhianfard&show_icons=true&theme=dark&line_height=33)
