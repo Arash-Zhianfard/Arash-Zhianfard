@@ -1,7 +1,7 @@
 ### Hi there, I'm Arash 
 
 
-## I'm a Senior Full Stack Developer with +6 experience in all stages
+I'm a Senior Full Stack Developer with +6 experience in all stages
 of advanced web development across diverse industries.I have experience in wide range of technologies across
 multiple frameworks, software and programming languages including ASP Core, C#, IIS,
 EF Core, Reactjs, AngularJs and Microsoft SQL Server
