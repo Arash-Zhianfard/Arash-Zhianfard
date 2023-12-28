@@ -2,6 +2,7 @@
 
 
 Senior Full Stack Developer.
+
 ASP Core, C#, Reactjs, AngularJs and Microsoft SQL Server.
 
 
